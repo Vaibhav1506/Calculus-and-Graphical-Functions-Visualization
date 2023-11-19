@@ -1,5 +1,5 @@
-# Calculus-Functions-Visualization-Python-MySql-Connectivity-Project
-We used Python and MySql to showcase a tiny yet significant part of the beautiful yet mysterious field of Mathematics - Calculus.
+# Calculus & Graphical Visualization of Function in Python MySql Connectivity
+A project where we used Python and MySql to showcase a tiny yet significant part of the beautiful yet mysterious field of Mathematics - Calculus.
 
 ## Coming Soon
 - Documentation
@@ -13,7 +13,7 @@ We used Python and MySql to showcase a tiny yet significant part of the beautifu
 - License Used: GNU Public License.
 
 ## Changelogs and Version History
-The previous version files are availaible in the previous versions folder.
+Contains various versions of the file from starting alongwith some details and descriptions about the code.The previous version files are availaible in the **Previous Versions** folder.
 
 ### Version 3.4 (18th November 2023)
 1. Improved Error Handling of mysql connection.

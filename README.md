@@ -5,7 +5,7 @@ We used Python and MySql to showcase a tiny yet significant part of the beautifu
 - Line Count: 1216
 - Code Language : Python (100%)
 - Date Created : 12th September 2023
-- Publish Date (on Github) : 
+- Publish Date (on Github) : 14th November 2023
 
 ## Changelogs and Version History
 

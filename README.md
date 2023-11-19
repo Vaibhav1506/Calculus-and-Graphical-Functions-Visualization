@@ -3,7 +3,7 @@ A project where we used Python and MySql to showcase a tiny yet significant part
 
 ## Coming Soon
 - Documentation
-- Output (SS)
+- Outputs (Screenshots)
 
 ## Statistics
 - Line Count: 1216.

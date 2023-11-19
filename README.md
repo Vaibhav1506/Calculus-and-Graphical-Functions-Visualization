@@ -4,6 +4,7 @@ A project where we used Python and MySql to showcase a tiny yet significant part
 ## Coming Soon
 - Documentation
 - Outputs (Screenshots)
+- Requirements
 
 ## Statistics
 - Line Count: 1216.

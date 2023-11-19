@@ -2,12 +2,14 @@
 We used Python and MySql to showcase a tiny yet significant part of the beautiful yet mysterious field of Mathematics - Calculus.
 
 ## Statistics
-- Line Count: 1216
-- Code Language : Python (100%)
-- Date Created : 12th September 2023
-- Publish Date (on Github) : 14th November 2023
+- Line Count: 1216.
+- Code Language : Python (100%).
+- Date Created : 12th September 2023.
+- Publish Date (on Github) : 14th November 2023.
+- License Used: GNU Public License.
 
 ## Changelogs and Version History
+The previous version files are availaible in the previous versions folder.
 
 ### Version 3.4 (18th November 2023)
 1. Improved Error Handling of mysql connection.

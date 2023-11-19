@@ -109,5 +109,5 @@ Initially we had no plans to add graphical visualization of functions. But we th
 2. 3 Basic types of Operations are defined - Differentiation, Integration (Both Indefinite and Definite)
 
 ### Version 1.0 (12th September 2023)
-A basic and rougher structure of the code was defined.
+A basic and rough structure of the code was defined.
 

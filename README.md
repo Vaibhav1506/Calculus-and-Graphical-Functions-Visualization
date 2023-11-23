@@ -16,7 +16,7 @@ A project where we used Python and MySql to showcase a tiny yet significant part
 ## Changelogs and Version History
 Contains various versions of the file from starting alongwith some details and descriptions about the code.The previous version files are availaible in the **Previous Versions** folder.
 
-### Version 3.5 (21st November 2023)
+### Version 3.5 (21st November 2023) [Latest Version]
 1. Fixed an issue in Matplotlib display of any function entered by the user.
 2. Fixed an error in displaying part of polynomial function as label and along y - axis in normal form in graphing part of the program.
 3. Added Name Error Handling.
@@ -116,6 +116,6 @@ Initially we had no plans to add graphical visualization of functions. But we th
 1. Menus and other conditional blocks were implemented.
 2. 3 Basic types of Operations are defined - Differentiation, Integration (Both Indefinite and Definite)
 
-### Version 1.0 (12th September 2023)
+### Version 1.0 (12th September 2023) [First Version]
 A basic and rough structure of the code was defined.
 

@@ -6,9 +6,9 @@ A project where we used Python and MySql to showcase a tiny yet significant part
 - Output Documentation
 - Requirements
 
-## Statistics
+## Code Information
 - Line Count: 1216.
-- Code Language : Python (100%).
+- Code Language : Python 3.12 (100%).
 - Date Created : 12th September 2023.
 - Publish Date (on Github) : 14th November 2023.
 - License Used: GNU Public License.

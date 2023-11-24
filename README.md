@@ -6,7 +6,7 @@ A project where we used Python and MySql to showcase a tiny yet significant part
 - Output Documentation
 
 ## Hardware Requirements
-- x86 64-bit CPU (Intel / AMD architecture).
+- x86 64-bit CPU ([Intel](https://www.intel.com/content/www/us/en/homepage.html) / [AMD](https://www.amd.com/en.html) architecture).
 - a minimum of 2 GB RAM (4GB recommended).
 
 ## Software Requirements

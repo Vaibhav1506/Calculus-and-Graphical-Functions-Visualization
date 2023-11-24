@@ -31,7 +31,7 @@ A project where we used Python and MySql to showcase a tiny yet significant part
 - Press F5 or run the code manually.
 
 ## Project Information
-- Line Count: 1216.
+- Line Count: 1214.
 - Code Language : Python 3.12 (100%).
 - Date Created : 12th September 2023.
 - Publish Date (on [Github](https://github.com/)) : 14th November 2023.

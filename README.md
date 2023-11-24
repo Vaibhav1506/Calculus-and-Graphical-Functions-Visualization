@@ -2,9 +2,7 @@
 A project where we used Python and MySql to showcase a tiny yet significant part of the beautiful yet mysterious field of Mathematics - Calculus.
 
 ## Coming Soon
-- Documentation
-- Output (Screenshots)
-- Output Documentation
+- Code Documentation
 
 ## Hardware Requirements
 - x86 64-bit CPU ([Intel](https://www.intel.com/content/www/us/en/homepage.html) / [AMD](https://www.amd.com/en.html) architecture).
@@ -15,14 +13,53 @@ A project where we used Python and MySql to showcase a tiny yet significant part
 - [Mac OS X](https://en.wikipedia.org/wiki/MacOS) 10.11 or higher, 64-bit.
 - [Linux](https://en.wikipedia.org/wiki/Linux): RHEL 6/7, 64-bit.
 - Almost all python libraries also work in [Ubuntu](https://en.wikipedia.org/wiki/Ubuntu).
+- [Python](https://www.python.org/) Latest Version (3.12 as of now).
+- [MySql](https://www.mysql.com/) (preferably both Command Line Client and Workbench both of version 8.0)
 
 ## Code Information
 - Line Count: 1216.
-- Code Language : [Python 3.12](https://www.python.org/) (100%).
+- Code Language : Python 3.12 (100%).
 - Date Created : 12th September 2023.
 - Publish Date (on [Github](https://github.com/)) : 14th November 2023.
 - Authors : [Rajveer Vora](https://github.com/RajveerVora) and [Vaibhav Bakshi](https://github.com/Vaibhav1506).
 - License Used: [GNU Public License](https://www.gnu.org/licenses/gpl-3.0.en.html) (Open Source).
+
+## Output
+The general first thing which you will notice after running the code is this :-
+
+![Screenshot 2023-11-21 233145](https://github.com/Vaibhav1506/Calculus-Functions-Visualization-Python-MySql-Connectivity-Project/assets/74455023/6e336bc2-52b0-43a3-bd84-161dc3008d49)
+
+Here you have to enter the given 3 parameters - hostname, username and password of ur MySql database after accepting to run the code by entering "Y" or "y". Clearly there are 5 basic operations - Differentiation, Indefinite Integrals, Definite Integrals, Graphs and Exit. The user can enter the choice number and it further divides into operation type which consists of 5 basic mathematical expressions - Trigonometric, Inverse Trigonometric, Polynomial, Logarithmic and Exponential functions. This is only for the first 3 operations while for the 4th one there are 2 choices - One specifically for polynomials and other for universal (implicit / explicit functions).
+
+1) For example here is the Differentiation part:
+
+![Screenshot 2023-11-21 213003](https://github.com/Vaibhav1506/Calculus-Functions-Visualization-Python-MySql-Connectivity-Project/assets/74455023/f924d848-b262-458a-8bc7-eb1b7d6063d8)
+
+2) Now here is an Indefinite Integral part:
+
+![Screenshot 2023-11-21 213248](https://github.com/Vaibhav1506/Calculus-Functions-Visualization-Python-MySql-Connectivity-Project/assets/74455023/f2661d4d-6cee-41e0-9050-20a6471f07e3)
+
+3) Here is a Definit Integral part:
+
+![Screenshot 2023-11-21 213205](https://github.com/Vaibhav1506/Calculus-Functions-Visualization-Python-MySql-Connectivity-Project/assets/74455023/72b0c3e8-ea05-44a7-83ed-0002e64f1bb4)
+
+4) And here is the Graphing part (both choices):
+
+![Screenshot 2023-11-21 232238](https://github.com/Vaibhav1506/Calculus-Functions-Visualization-Python-MySql-Connectivity-Project/assets/74455023/23b6191f-49a0-4323-b6e9-6ed7bfcbfb29)
+
+![Screenshot 2023-11-21 213833](https://github.com/Vaibhav1506/Calculus-Functions-Visualization-Python-MySql-Connectivity-Project/assets/74455023/ae6e8dcd-af4e-4c3e-a968-d13af8fcd7c5)
+
+Exiting the code will simply display:
+
+![Screenshot 2023-11-21 232328](https://github.com/Vaibhav1506/Calculus-Functions-Visualization-Python-MySql-Connectivity-Project/assets/74455023/c7a33fae-8c7e-4ba0-9756-1dfbc12a112c)
+
+Now for viewing the User History you can simply go to MySQL Command Line Client or Workbench (Latest Version 8.0).
+
+![Screenshot 2023-11-23 201830](https://github.com/Vaibhav1506/Calculus-Functions-Visualization-Python-MySql-Connectivity-Project/assets/74455023/ee8f04e5-b12d-4e17-9f64-33c9c710231e)
+
+![Screenshot 2023-11-24 201035](https://github.com/Vaibhav1506/Calculus-Functions-Visualization-Python-MySql-Connectivity-Project/assets/74455023/ef337702-1cfa-461b-a32f-247fee7de763)
+
+Therefore, you can see the results which the user has entered clearly in an organised and tabular format.
 
 ## Changelogs and Version History
 Contains various versions of the file from starting alongwith some details and descriptions about the code.The previous version files are availaible in the **Previous Versions** folder.

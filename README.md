@@ -6,6 +6,16 @@ A project where we used Python and MySql to showcase a tiny yet significant part
 - Output Documentation
 - Requirements
 
+## Hardware Requirements
+- x86 64-bit CPU (Intel / AMD architecture).
+- a minimum of 2 GB RAM (4GB recommended).
+
+## Software Requirements
+- Windows 7 or higher.
+- Mac OS X 10.11 or higher, 64-bit.
+- Linux: RHEL 6/7, 64-bit.
+- Almost all python libraries also work in Ubuntu.
+
 ## Code Information
 - Line Count: 1216.
 - Code Language : Python 3.12 (100%).

@@ -3,6 +3,7 @@ A project where we used Python and MySql to showcase a tiny yet significant part
 
 ## Coming Soon
 - Documentation
+- Output (Screenshots)
 - Output Documentation
 
 ## Hardware Requirements

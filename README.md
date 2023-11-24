@@ -10,18 +10,18 @@ A project where we used Python and MySql to showcase a tiny yet significant part
 - a minimum of 2 GB RAM (4GB recommended).
 
 ## Software Requirements
-- Windows 7 or higher.
-- Mac OS X 10.11 or higher, 64-bit.
-- Linux: RHEL 6/7, 64-bit.
-- Almost all python libraries also work in Ubuntu.
+- [Windows](https://en.wikipedia.org/wiki/Microsoft_Windows) 7 or higher.
+- [Mac OS X](https://en.wikipedia.org/wiki/MacOS) 10.11 or higher, 64-bit.
+- [Linux](https://en.wikipedia.org/wiki/Linux): RHEL 6/7, 64-bit.
+- Almost all python libraries also work in [Ubuntu](https://en.wikipedia.org/wiki/Ubuntu).
 
 ## Code Information
 - Line Count: 1216.
-- Code Language : Python 3.12 (100%).
+- Code Language : [Python 3.12](https://www.python.org/) (100%).
 - Date Created : 12th September 2023.
-- Publish Date (on Github) : 14th November 2023.
+- Publish Date (on [Github](https://github.com/)) : 14th November 2023.
 - Authors : [Rajveer Vora](https://github.com/RajveerVora) and [Vaibhav Bakshi](https://github.com/Vaibhav1506).
-- License Used: GNU Public License (Open Source).
+- License Used: [GNU Public License](https://www.gnu.org/licenses/gpl-3.0.en.html) (Open Source).
 
 ## Changelogs and Version History
 Contains various versions of the file from starting alongwith some details and descriptions about the code.The previous version files are availaible in the **Previous Versions** folder.

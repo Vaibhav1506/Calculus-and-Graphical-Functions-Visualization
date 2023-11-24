@@ -19,6 +19,17 @@ A project where we used Python and MySql to showcase a tiny yet significant part
 - [Matplotlib](https://matplotlib.org/) Python Library.
 - [Mysql-Connector](https://pypi.org/project/mysql-connector-python/) Library.
 
+## How to Execute the Code
+- Make sure the above Software Requirements are satisfied including libraries.
+- For installing libraries, first open Command Prompt(CMD) in Windows or Terminal in Mac OS and other operating systems.
+  - For installing numpy, run: **pip3 install numpy**
+  - For installing matplotlib, run: **pip3 install matplotlib**
+  - For installing mysql-connector-python, run: **pip3 install mysql-connector-python** 
+- Download the zip file and unzip it.
+- Open the Folder in any code editor.
+- Navigate to the file: **Final_CS_Project_Without_Documentation (Version 3.6).py**
+- Press F5 or run the code manually.
+
 ## Code Information
 - Line Count: 1216.
 - Code Language : Python 3.12 (100%).

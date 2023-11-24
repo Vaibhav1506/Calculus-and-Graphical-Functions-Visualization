@@ -15,6 +15,9 @@ A project where we used Python and MySql to showcase a tiny yet significant part
 - Almost all python libraries also work in [Ubuntu](https://en.wikipedia.org/wiki/Ubuntu).
 - [Python](https://www.python.org/) Latest Version (3.12 as of now).
 - [MySql](https://www.mysql.com/) (preferably both Command Line Client and Workbench both of version 8.0)
+- [Numpy](https://numpy.org/) Python Library.
+- [Matplotlib](https://matplotlib.org/) Python Library.
+- [Mysql-Connector](https://pypi.org/project/mysql-connector-python/) Library.
 
 ## Code Information
 - Line Count: 1216.

@@ -11,7 +11,7 @@ A project where we used Python and MySql to showcase a tiny yet significant part
 - Code Language : Python 3.12 (100%).
 - Date Created : 12th September 2023.
 - Publish Date (on Github) : 14th November 2023.
-- Authors : Rajveer Vora and Vaibhav Bakshi.
+- Authors : [Rajveer Vora](https://github.com/RajveerVora) and [Vaibhav Bakshi](https://github.com/Vaibhav1506).
 - License Used: GNU Public License (Open Source).
 
 ## Changelogs and Version History

@@ -4,7 +4,6 @@ A project where we used Python and MySql to showcase a tiny yet significant part
 ## Coming Soon
 - Documentation
 - Output Documentation
-- Requirements
 
 ## Hardware Requirements
 - x86 64-bit CPU (Intel / AMD architecture).

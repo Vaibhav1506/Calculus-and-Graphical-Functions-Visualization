@@ -12,12 +12,16 @@ A project where we used Python and MySql to showcase a tiny yet significant part
 - Date Created : 12th September 2023.
 - Publish Date (on Github) : 14th November 2023.
 - Authors : Rajveer Vora and Vaibhav Bakshi.
-- License Used: GNU Public License.
+- License Used: GNU Public License (Open Source).
 
 ## Changelogs and Version History
 Contains various versions of the file from starting alongwith some details and descriptions about the code.The previous version files are availaible in the **Previous Versions** folder.
 
-### Version 3.5 (21st November 2023) [Latest Version]
+### Version 3.6 (24th November 2023) [Latest Version]
+1. Removed unnecessary comment lines "#type:ignore" (used previously for ignoring warnings).
+2. Removed redundant guidelines and made it user - friendly.
+
+### Version 3.5 (21st November 2023) 
 1. Fixed an issue in Matplotlib display of any function entered by the user.
 2. Fixed an error in displaying part of polynomial function as label and along y - axis in normal form in graphing part of the program.
 3. Added Name Error Handling.

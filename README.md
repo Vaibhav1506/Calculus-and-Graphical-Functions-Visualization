@@ -30,13 +30,14 @@ A project where we used Python and MySql to showcase a tiny yet significant part
 - Navigate to the file: **Final_CS_Project_Without_Documentation (Version 3.6).py**
 - Press F5 or run the code manually.
 
-## Code Information
+## Project Information
 - Line Count: 1216.
 - Code Language : Python 3.12 (100%).
 - Date Created : 12th September 2023.
 - Publish Date (on [Github](https://github.com/)) : 14th November 2023.
 - Authors : [Rajveer Vora](https://github.com/RajveerVora) and [Vaibhav Bakshi](https://github.com/Vaibhav1506).
-- License Used: [GNU Public License](https://www.gnu.org/licenses/gpl-3.0.en.html) (Open Source).
+- Number of Contributors : 2
+- License Used: [GNU Public License](https://www.gnu.org/licenses/gpl-3.0.en.html) (Open Source Project).
 
 ## Output
 The general first thing which you will notice after running the code is this :-

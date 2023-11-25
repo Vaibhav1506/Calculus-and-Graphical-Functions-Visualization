@@ -45,7 +45,7 @@ The general first thing which you will notice after running the code is this :-
 
 ![Screenshot 2023-11-21 233145](https://github.com/Vaibhav1506/Calculus-Functions-Visualization-Python-MySql-Connectivity-Project/assets/74455023/6e336bc2-52b0-43a3-bd84-161dc3008d49)
 
-Here you have to enter the given 3 parameters - hostname, username and password of ur MySql database after accepting to run the code by entering "Y" or "y". Clearly there are 5 basic operations - Differentiation, Indefinite Integrals, Definite Integrals, Graphs and Exit. The user can enter the choice number and it further divides into operation type which consists of 5 basic mathematical expressions - Trigonometric, Inverse Trigonometric, Polynomial, Logarithmic and Exponential functions. This is only for the first 3 operations while for the 4th one there are 2 choices - One specifically for polynomials and other for universal (implicit / explicit functions).
+Here you have to enter the given 3 parameters - hostname, username and password of your MySql database after accepting to run the code by entering "Y" or "y". Clearly there are 5 basic operations - Differentiation, Indefinite Integrals, Definite Integrals, Graphs and Exit. The user can enter the choice number and it further divides into operation type which consists of 5 basic mathematical expressions - Trigonometric, Inverse Trigonometric, Polynomial, Logarithmic and Exponential functions. This is only for the first 3 operations while for the 4th one there are 2 choices - One specifically for polynomials and other for universal (implicit / explicit functions).
 
 1) For example here is the Differentiation part:
 

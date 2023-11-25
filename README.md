@@ -24,7 +24,7 @@ A project where we used Python and MySql to showcase a tiny yet significant part
 - [Linux](https://en.wikipedia.org/wiki/Linux): RHEL 6/7, 64-bit.
 - Almost all python libraries also work in [Ubuntu](https://en.wikipedia.org/wiki/Ubuntu).
 - [Python](https://www.python.org/) Latest Version (3.12 as of November 2023).
-- [MySql](https://www.mysql.com/) (preferably both Command Line Client and Workbench both of version 8.0)
+- [MySql](https://www.mysql.com/) (Command Line Client or Workbench)
 - [Numpy](https://numpy.org/) Python Library.
 - [Matplotlib](https://matplotlib.org/) Python Library.
 - [Mysql-Connector](https://pypi.org/project/mysql-connector-python/) Library.

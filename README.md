@@ -13,7 +13,7 @@ A project where we used Python and MySql to showcase a tiny yet significant part
 - [Mac OS X](https://en.wikipedia.org/wiki/MacOS) 10.11 or higher, 64-bit.
 - [Linux](https://en.wikipedia.org/wiki/Linux): RHEL 6/7, 64-bit.
 - Almost all python libraries also work in [Ubuntu](https://en.wikipedia.org/wiki/Ubuntu).
-- [Python](https://www.python.org/) Latest Version (3.12 as of now).
+- [Python](https://www.python.org/) Latest Version (3.12 as of November 2023).
 - [MySql](https://www.mysql.com/) (preferably both Command Line Client and Workbench both of version 8.0)
 - [Numpy](https://numpy.org/) Python Library.
 - [Matplotlib](https://matplotlib.org/) Python Library.
@@ -21,7 +21,7 @@ A project where we used Python and MySql to showcase a tiny yet significant part
 
 ## How to Execute the Code
 - Make sure the above Software Requirements are satisfied including libraries.
-- For installing libraries, first open Command Prompt(CMD) in Windows or Terminal in Mac OS and other operating systems.
+- For installing libraries, first open Command Prompt(CMD) in Windows or Terminal in Mac OS or other operating systems.
   - For installing numpy, run: **pip3 install numpy**
   - For installing matplotlib, run: **pip3 install matplotlib**
   - For installing mysql-connector-python, run: **pip3 install mysql-connector-python** 
@@ -32,7 +32,8 @@ A project where we used Python and MySql to showcase a tiny yet significant part
 
 ## Project Information
 - Line Count: 1214.
-- Code Language : Python 3.12 (100%).
+- Code Language : Python (Version 3.12) **(100%)**.
+- Code Editor Used : Microsoft [Visual Studio Code](https://code.visualstudio.com/) Editor
 - Date Created : 12th September 2023.
 - Publish Date (on [Github](https://github.com/)) : 14th November 2023.
 - Authors : [Rajveer Vora](https://github.com/RajveerVora) and [Vaibhav Bakshi](https://github.com/Vaibhav1506).

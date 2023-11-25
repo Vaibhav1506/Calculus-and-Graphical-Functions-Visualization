@@ -4,6 +4,16 @@ A project where we used Python and MySql to showcase a tiny yet significant part
 ## Coming Soon
 - Code Documentation
 
+## Project Information
+- Line Count: 1214.
+- Code Language : Python (Version 3.12) **(100%)**.
+- Code Editor Used : Microsoft [Visual Studio Code](https://code.visualstudio.com/) Editor
+- Date Created : 12th September 2023.
+- Publish Date (on [Github](https://github.com/)) : 14th November 2023.
+- Authors : [Rajveer Vora](https://github.com/RajveerVora) and [Vaibhav Bakshi](https://github.com/Vaibhav1506).
+- Number of Contributors : 2
+- License Used: [GNU Public License](https://www.gnu.org/licenses/gpl-3.0.en.html) (Open Source Project).
+
 ## Hardware Requirements
 - x86 64-bit CPU ([Intel](https://www.intel.com/content/www/us/en/homepage.html) / [AMD](https://www.amd.com/en.html) architecture).
 - A minimum of 2 GB RAM (4GB recommended).
@@ -29,16 +39,6 @@ A project where we used Python and MySql to showcase a tiny yet significant part
 - Open the Folder in any code editor.
 - Navigate to the file: **Final_CS_Project_Without_Documentation (Version 3.6).py**
 - Press F5 or run the code manually.
-
-## Project Information
-- Line Count: 1214.
-- Code Language : Python (Version 3.12) **(100%)**.
-- Code Editor Used : Microsoft [Visual Studio Code](https://code.visualstudio.com/) Editor
-- Date Created : 12th September 2023.
-- Publish Date (on [Github](https://github.com/)) : 14th November 2023.
-- Authors : [Rajveer Vora](https://github.com/RajveerVora) and [Vaibhav Bakshi](https://github.com/Vaibhav1506).
-- Number of Contributors : 2
-- License Used: [GNU Public License](https://www.gnu.org/licenses/gpl-3.0.en.html) (Open Source Project).
 
 ## Output
 The general first thing which you will notice after running the code is this :-

@@ -89,7 +89,7 @@ Contains various versions of the file from starting alongwith some details and d
 2. Fixed an error in displaying part of polynomial function as label and along y - axis in normal form in graphing part of the program.
 3. Added Name Error Handling.
 4. Added a Rule regarding entering of expressions in the Graphing part of program.
-5. Added the expression entered in graphing part as answer to be inserted in database since using hyphens will result in duplication errors. This is due to the fact that the Answer column in the MySql database has UNIQUE constraint applied on it and since every graph will have hyphens has answer therefore we decided to change to the expresison entered by the user itself.
+5. Added the expression entered in graphing part as answer to be inserted in database since using hyphens will result in duplication errors. This is due to the fact that the Answer column in the MySql database has UNIQUE constraint applied on it and since every graph will have hyphens as answer therefore we decided to change to the expresison entered by the user itself.
 
 ### Version 3.4 (18th November 2023)
 1. Improved Error Handling of mysql connection.

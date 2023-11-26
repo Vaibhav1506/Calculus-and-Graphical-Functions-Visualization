@@ -30,7 +30,7 @@ A project where we used Python and MySql to showcase a tiny yet significant part
 - [Mysql-Connector](https://pypi.org/project/mysql-connector-python/) Library.
 
 ## Support
-If you find any discrepencies or want to suggest some improvements feel free to contact us at rajveervora2006@gmail.com (Rajveer Vora) and bvaibhav1506@gmail.com (Vaibhav Bakshi).
+If you find any discrepencies or want to suggest some improvements feel free to contact us at vorarajveer78@gmail.com (Rajveer Vora) and bvaibhav1506@gmail.com (Vaibhav Bakshi).
 
 ## Executing the Code
 - Make sure the above Software Requirements are satisfied including libraries.

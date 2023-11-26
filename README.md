@@ -32,7 +32,7 @@ A project where we used Python and MySql to showcase a tiny yet significant part
 ## Support
 If you find any discrepencies or want to suggest some improvements feel free to contact us at rajveervora2006@gmail.com (Rajveer Vora) and bvaibhav1506@gmail.com (Vaibhav Bakshi).
 
-## How to Execute the Code
+## Executing the Code
 - Make sure the above Software Requirements are satisfied including libraries.
 - For installing libraries, first open Command Prompt(CMD) in Windows or Terminal in Mac OS or other operating systems.
   - For installing numpy, run: **pip3 install numpy**

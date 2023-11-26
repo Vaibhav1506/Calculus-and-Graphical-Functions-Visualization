@@ -7,11 +7,11 @@ A project where we used Python and MySql to showcase a tiny yet significant part
 ## Project Information
 - Line Count: 1214.
 - Code Language : Python (Version 3.12) **(100%)**.
-- Created Using : Microsoft [Visual Studio Code](https://code.visualstudio.com/) Editor
+- Created Using : Microsoft [Visual Studio Code](https://code.visualstudio.com/) Editor.
 - Date Created : 12th September 2023.
 - Publish Date (on [Github](https://github.com/)) : 14th November 2023.
 - Authors : [Rajveer Vora](https://github.com/RajveerVora) and [Vaibhav Bakshi](https://github.com/Vaibhav1506).
-- Number of Contributors : 2
+- Number of Contributor(s) : 2
 - License Used: [GNU Public License](https://www.gnu.org/licenses/gpl-3.0.en.html) (Open Source Project).
 
 ## Hardware Requirements
@@ -24,7 +24,7 @@ A project where we used Python and MySql to showcase a tiny yet significant part
 - [Linux](https://en.wikipedia.org/wiki/Linux): RHEL 6/7, 64-bit.
 - Almost all python libraries also work in [Ubuntu](https://en.wikipedia.org/wiki/Ubuntu).
 - [Python](https://www.python.org/) Latest Version (3.12 as of November 2023).
-- [MySql](https://www.mysql.com/) (Command Line Client or Workbench both of version 8.0)
+- [MySql](https://www.mysql.com/) (Command Line Client or Workbench both of version 8.0).
 - [Numpy](https://numpy.org/) Python Library.
 - [Matplotlib](https://matplotlib.org/) Python Library.
 - [Mysql-Connector](https://pypi.org/project/mysql-connector-python/) Library.

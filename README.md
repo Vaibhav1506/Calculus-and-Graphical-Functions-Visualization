@@ -1,9 +1,6 @@
 # Calculus & Graphical Visualization of Function in Python MySql Connectivity
 A project where we used Python and MySql to showcase a tiny yet significant part of the beautiful yet mysterious field of Mathematics - Calculus.
 
-## Coming Soon
-- Code Documentation
-
 ## Project Information
 - Line Count: 1214.
 - Code Language : Python (Version 3.12) **(100%)**.
@@ -13,6 +10,9 @@ A project where we used Python and MySql to showcase a tiny yet significant part
 - Authors : [Rajveer Vora](https://github.com/RajveerVora) and [Vaibhav Bakshi](https://github.com/Vaibhav1506).
 - Number of Contributor(s) : 2
 - License Used: [GNU Public License](https://www.gnu.org/licenses/gpl-3.0.en.html) (Open Source Project).
+
+## Code Documentation
+Code Documentation has now been added on 5th December 2023. It contains the description of all the algorithms and mechanism of the code written in a well explained manner. It was written using LaTeX typesetting language to generate a pdf.
 
 ## Hardware Requirements
 - x86 64-bit CPU ([Intel](https://www.intel.com/content/www/us/en/homepage.html) / [AMD](https://www.amd.com/en.html) architecture).

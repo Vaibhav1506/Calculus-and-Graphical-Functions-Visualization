@@ -12,7 +12,7 @@ A project where we used Python and MySql to showcase a tiny yet significant part
 - License Used: [GNU Public License](https://www.gnu.org/licenses/gpl-3.0.en.html) (Open Source Project).
 
 ## Code Documentation
-Code Documentation has now been added on 5th December 2023. It contains the description of all the algorithms and mechanism of the code written in a well explained manner. It was written using LaTeX typesetting language to generate a pdf. You can nagivate to the **Synopsis and Documentation Folder** and click on the **Code Documentation.pdf**. You can view it [here](https://github.com/Vaibhav1506/Calculus-Functions-Visualization-Python-MySql-Connectivity-Project/tree/main/Python%20Integral/Synopsis%20and%20Documentation).
+Code Documentation has now been added on 5th December 2023. It contains the description of all the algorithms and mechanism of the code written in a well explained manner. It was written using [LaTeX](https://en.wikipedia.org/wiki/LaTeX) typesetting language to generate a pdf. You can nagivate to the **Synopsis and Documentation Folder** and click on the **Code Documentation.pdf**. You can view it [here](https://github.com/Vaibhav1506/Calculus-Functions-Visualization-Python-MySql-Connectivity-Project/tree/main/Python%20Integral/Synopsis%20and%20Documentation).
 
 ## Hardware Requirements
 - x86 64-bit CPU ([Intel](https://www.intel.com/content/www/us/en/homepage.html) / [AMD](https://www.amd.com/en.html) architecture).

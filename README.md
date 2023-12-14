@@ -1,7 +1,7 @@
 # Calculus & Graphical Visualization of Function in Python MySql Connectivity
 A project where we used Python and MySql to showcase a tiny yet significant part of the beautiful yet mysterious field of Mathematics - Calculus.
 
-## Project Information
+## Code Information
 - Line Count: 1214.
 - Code Language : Python (Version 3.12) **(100%)**.
 - Created Using : Microsoft [Visual Studio Code](https://code.visualstudio.com/) Editor.

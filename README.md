@@ -2,7 +2,7 @@
 A project where we used Python and MySql to showcase a tiny yet significant part of the beautiful yet mysterious field of Mathematics - Calculus.
 
 ## Code Information
-- Line Count: 1214.
+- Line Count: 1217.
 - Code Language : Python (Version 3.12) **(100%)**.
 - Created Using : Microsoft [Visual Studio Code](https://code.visualstudio.com/) Editor.
 - Date Created : 12th September 2023.
@@ -84,7 +84,10 @@ Therefore, you can see the results which the user has entered clearly in an orga
 ## Changelogs and Version History
 Contains various versions of the file from starting alongwith some details and descriptions about the code.The previous version files are availaible in the **Previous Versions** folder.
 
-### Version 3.6 (24th November 2023) [Latest Version]
+### Version 3.7 (17th December 2023)
+1. Added link to this Github Repository for reference.
+
+### Version 3.6 (24th November 2023)
 1. Removed unnecessary comment lines "#type:ignore" (used previously for ignoring warnings).
 2. Removed redundant guidelines and made it user - friendly.
 

@@ -41,7 +41,7 @@ If you find any discrepencies or want to suggest some improvements feel free to 
   - For installing mysql-connector-python, run: **pip3 install mysql-connector-python** 
 - Download the zip file and unzip it.
 - Open the Folder in any code editor.
-- Navigate to the file: **Final_CS_Project_Without_Documentation (Version 3.6).py**
+- Navigate to the file: **Final_CS_Project_Code (Version 3.7).py**
 - Press F5 or run the code manually.
 
 ## Output

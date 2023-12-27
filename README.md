@@ -2,8 +2,8 @@
 A project where we used Python and MySql to showcase a tiny yet significant part of the beautiful yet mysterious field of Mathematics - Calculus.
 
 ## Coming Soon
-- Flow of Control Chart.
-- Possible Addition : Limitations and Validations.
+- Flow of Control (Flowchart).
+- **Possible Addition**(100% not sure) : Limitations and Validations.
 
 ## Code Information
 - Line Count: 1217.

@@ -4,6 +4,7 @@ A project where we used Python and MySql to showcase a tiny yet significant part
 ## Coming Soon
 - Flow of Control (Flowchart). [Not yet confirmed]
 - Limitations.
+- Version 3.1 will be back for supporting more SQL commands.
    
 ## Code Information
 - Line Count: 1217.

@@ -49,7 +49,7 @@ If you find any discrepencies or want to suggest some improvements feel free to 
 - Press F5 or run the code manually.
 
 ## Limitations
-While our project successfully performs a variety of well-known tasks and adheres to standard practices, it is not without its share of issues and limitations.These are outlined below:-
+While our project successfully performs a variety of well-known tasks and adheres to standard practices, it is not without its share of issues and limitations. Some of these are even highlighted in the rules when the code is run while some are outlined below:-
 
 - It only accepts linear specific functions of the form "f(ax + c)" (sometimes "b" for inverse trigonometric functions). Thus it does not support sophisticated or implicit or complex functions and is very limited.
 - It cannot perform complex integrations like the Gaussian Integrals or the Bernoulli's Integrals or multivariable calculus either.

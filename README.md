@@ -3,7 +3,6 @@ A project where we used Python and MySql to showcase a tiny yet significant part
 
 ## Coming Soon
 - Flow of Control (Flowchart). [Not yet confirmed]
-- Limitations.
 - Version 3.1 will be back for supporting more SQL commands.
    
 ## Code Information
@@ -48,6 +47,17 @@ If you find any discrepencies or want to suggest some improvements feel free to 
 - Open the Folder in any code editor.
 - Navigate to the file: **Final_CS_Project_Code (Version 3.7).py**
 - Press F5 or run the code manually.
+
+## Limitations
+While our project successfully performs a variety of well-known tasks and adheres to standard practices, it is not without its share of issues and limitations.These are outlined below:-
+
+1) It only accepts linear specific functions of the form "f(ax + c)" (sometimes "b" for inverse trigonometric functions). Thus it does not support sophisticated or implicit or complex functions and is very limited.
+2) It cannot perform complex integrations like the Gaussian Integrals or the Bernoulli's Integrals or multivariable calculus either. 
+3) For Definite Integration of Inverse Trigonometric Function sometimes the answer may not show up due to Function Domain Error issues.
+4) For Polynomial Graphs it cannot display the polynomials which have complex roots properly.
+5) It does not store the User History or is able to perform search on the history on the basis of operation or function types.
+
+**Note :- Some of these above limitations may even be fixed in future.**
 
 ## Output
 The general first thing which you will notice after running the code is this :-

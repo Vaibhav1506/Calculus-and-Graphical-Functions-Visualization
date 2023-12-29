@@ -2,9 +2,9 @@
 A project where we used Python and MySql to showcase a tiny yet significant part of the beautiful yet mysterious field of Mathematics - Calculus.
 
 ## Coming Soon
-- Flow of Control (Flowchart).
-- **Possible Addition** (100% not sure) : Limitations and Validations.
-
+- Flow of Control (Flowchart). [Not yet confirmed]
+- Limitations.
+   
 ## Code Information
 - Line Count: 1217.
 - Code Language : Python (Version 3.12) **(100%)**.
@@ -88,7 +88,7 @@ Therefore, you can see the results which the user has entered clearly in an orga
 ## Changelogs and Version History
 Contains various versions of the file from starting alongwith some details and descriptions about the code.The previous version files are availaible in the **Previous Versions** folder.
 
-### Version 3.7 (17th December 2023)
+### Version 3.7 (17th December 2023) [Latest Version]
 1. Added link to this Github Repository for reference.
 
 ### Version 3.6 (24th November 2023)
@@ -195,6 +195,6 @@ Initially we had no plans to add graphical visualization of functions. But we th
 1. Menus and other conditional blocks were implemented.
 2. 3 Basic types of Operations are defined - Differentiation, Integration (Both Indefinite and Definite)
 
-### Version 1.0 (12th September 2023) [First Version]
+### Version 1.0 (12th September 2023) [Oldest Version]
 1. A basic and rough structure of the code was defined.
 

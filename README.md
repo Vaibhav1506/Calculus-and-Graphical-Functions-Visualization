@@ -2,7 +2,6 @@
 A project where we used Python and MySql to showcase a tiny yet significant part of the beautiful and interesting field of Mathematics - Calculus.
 
 ## Coming Soon
-- Flow of Control (Flowchart). [Not yet confirmed]
 - Version 3.1 will be back for supporting more SQL commands.
    
 ## Code Information
@@ -16,8 +15,8 @@ A project where we used Python and MySql to showcase a tiny yet significant part
 - Number of Contributor(s) : 2
 - License Used: [GNU Public License](https://www.gnu.org/licenses/gpl-3.0.en.html) (Open Source Project).
 
-## Code Documentation
-Code Documentation has now been added on 5th December 2023. It contains the description of all the algorithms and mechanism of the code written in a well explained manner. It was written using [LaTeX](https://en.wikipedia.org/wiki/LaTeX) typesetting language to generate a pdf. You can nagivate to the **Synopsis and Documentation Folder** and click on the **Code Documentation.pdf**. You can view it [here](https://github.com/Vaibhav1506/Calculus-and-Graphical-Functions-Visualization/blob/main/Main%20Directory/Help%2C%20Guide%20and%20more%20Info/Official%20Guide%20and%20Documentation.pdf). Author of this guide is [Vaibhav Bakshi](https://github.com/Vaibhav1506).
+## Code Guide and Help
+Code Documentation has now been added on 5th December 2023. It contains the description of all the algorithms and mechanism of the code written in a well explained manner. It was written using [LaTeX](https://en.wikipedia.org/wiki/LaTeX) typesetting language to generate a pdf. You can nagivate to the **Synopsis and Documentation Folder** and click on the **Official Guide and Documentation.pdf**. It is written by [Vaibhav Bakshi](https://github.com/Vaibhav1506) and you can view it [here](https://github.com/Vaibhav1506/Calculus-and-Graphical-Functions-Visualization/blob/main/Main%20Directory/Help%2C%20Guide%20and%20more%20Info/Official%20Guide%20and%20Documentation.pdf). You can also view the Flowchart which depicts the Flow of Control for our code thus making it easier to understand the execution process. It is written by [Rajveer Vora](https://github.com/RajveerVora) and you can view it [here](https://github.com/Vaibhav1506/Calculus-and-Graphical-Functions-Visualization/blob/main/Main%20Directory/Help%2C%20Guide%20and%20more%20Info/Flow%20of%20Control.pdf).
 
 ## Hardware Requirements
 - x86 64-bit CPU ([Intel](https://www.intel.com/content/www/us/en/homepage.html) / [AMD](https://www.amd.com/en.html) architecture).

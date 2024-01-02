@@ -4,7 +4,7 @@
 All versions are supported as long as your code editor/IDE/Compiler supports running Python. However please do note the following versions of Python:
 | Version  | Supportability     |
 | -------  | ------------------ |
-| 3.12.x   | :white_check_mark: |
+| > 3.12.x   | :white_check_mark: |
 | 3.11.x   | :white_check_mark: |
 | 3.10.x   | :white_check_mark: |
 | 3.9.x    | :white_check_mark: |

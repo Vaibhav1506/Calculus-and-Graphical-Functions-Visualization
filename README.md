@@ -1,4 +1,4 @@
-# Calculus & Graphical Visualization of Function in Python MySql Connectivity
+# Calculus & Graphical Visualization of Functions 
 A project where we used Python and MySql to showcase a tiny yet significant part of the beautiful and interesting field of Mathematics - Calculus.
 
 ## Coming Soon

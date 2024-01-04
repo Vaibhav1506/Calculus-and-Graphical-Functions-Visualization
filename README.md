@@ -4,14 +4,14 @@ A project where we used Python and MySql to showcase a tiny yet significant part
 ## Coming Soon
 - Version 3.1 will be back for supporting more SQL commands.
    
-## Code Information
+## Repository Information
 - Line Count: 1217.
 - Code Language : Python (Version 3.12) **(100%)**.
 - Created Using : Microsoft [Visual Studio Code](https://code.visualstudio.com/) Editor.
 - Date Created : 12th September 2023.
 - Publish Date (on [Github](https://github.com/)) : 14th November 2023.
 - Last Updated : 4th January 2024.
-- Project Status : Active.
+- Repository Status : Active.
 - Authors : [Rajveer Vora](https://github.com/RajveerVora) and [Vaibhav Bakshi](https://github.com/Vaibhav1506).
 - Number of Contributor(s) : 2
 - License Used: [GNU Public License](https://www.gnu.org/licenses/gpl-3.0.en.html) (Open Source Project).

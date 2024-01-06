@@ -34,7 +34,7 @@ Code Documentation has now been added on 5th December 2023. It contains the desc
 - [Matplotlib](https://matplotlib.org/) Python Library.
 - [Mysql-Connector](https://pypi.org/project/mysql-connector-python/) Library.
 
-## Support
+## Support and Help
 If you find any discrepencies or want to suggest some improvements feel free to contact us at vorarajveer78@gmail.com (Rajveer Vora) and bvaibhav1506@gmail.com (Vaibhav Bakshi).
 
 ## Executing the Code

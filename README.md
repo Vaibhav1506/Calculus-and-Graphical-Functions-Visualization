@@ -5,6 +5,8 @@ A project where we used Python and MySql to showcase a tiny yet significant part
 - Search User History by Operation Type, Date, Time, etc.
 - View User History.
 - More Optimized Code.
+
+
 **Note:- All these are planned to be released on mid 2024 or so. (Changes may apply).**
 
 ## Repository Information

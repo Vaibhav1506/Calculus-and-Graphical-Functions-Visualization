@@ -7,7 +7,6 @@ A project where we used Python and MySql to showcase a tiny yet significant part
 - More Optimized Code.
 - Modified Documentation.
 
-
 **Note:- All these are planned to be released on mid 2024 or so. (Changes may apply).**
 
 ## Repository Information
@@ -61,9 +60,6 @@ While our project successfully performs a variety of well-known tasks and adhere
 - It cannot perform complex integrations like the Gaussian Integrals or the Bernoulli's Integrals or multivariable calculus either.
 - For Definite Integration of Inverse Trigonometric Function sometimes the answer may not show up due to Function Domain Error issues.
 - For Polynomial Graphs it cannot display the polynomials which have complex roots properly.
-- It does not store the User History or is able to perform search on the history on the basis of operation or function types.
-
-**Note :- Some of these above limitations may even be fixed in future.**
 
 ## Output
 The general first thing which you will notice after running the code is this :-

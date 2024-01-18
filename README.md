@@ -18,7 +18,7 @@ A project where we used Python and MySql to showcase a tiny yet significant part
 - Last Updated : 11th January 2024.
 - **Repository Status : Active.**
 - Authors : [Rajveer Vora](https://github.com/RajveerVora) and [Vaibhav Bakshi](https://github.com/Vaibhav1506).
-- Number of Contributor(s) : 2
+- Number of Contributor(s) : 2.
 - License Used: [GNU Public License](https://www.gnu.org/licenses/gpl-3.0.en.html) (Open Source Project).
 
 ## Code Guide and Help
@@ -33,8 +33,8 @@ Code Documentation has now been added on 5th December 2023. It contains the desc
 - [Mac OS X](https://en.wikipedia.org/wiki/MacOS) 10.11 or higher, 64-bit.
 - [Linux](https://en.wikipedia.org/wiki/Linux): RHEL 6/7, 64-bit.
 - Almost all python libraries also work in [Ubuntu](https://en.wikipedia.org/wiki/Ubuntu).
-- [Python](https://www.python.org/) Latest Version (3.12 as of November 2023).
-- [MySql](https://www.mysql.com/) (Command Line Client or Workbench both of version 8.0).
+- [Python](https://www.python.org/) or [PyPy](https://en.wikipedia.org/wiki/PyPy) [Latest Version].
+- [MySql](https://www.mysql.com/) [Latest Version].
 - [Numpy](https://numpy.org/) Python Library.
 - [Matplotlib](https://matplotlib.org/) Python Library.
 - [Mysql-Connector](https://pypi.org/project/mysql-connector-python/) Library.

@@ -7,7 +7,7 @@ A project where we used Python and MySql to showcase a tiny yet significant part
 - More Optimized Code.
 - Modified Documentation.
 
-**Note:- All these are planned to be released on mid 2024 or so. (Changes may apply).**
+**Note:- All these are planned to be released on early Feb 2024 or so. (Changes may apply).**
 
 ## Repository Information
 - Line Count: 1217.

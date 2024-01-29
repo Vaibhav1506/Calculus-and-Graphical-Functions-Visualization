@@ -1,13 +1,11 @@
 # Calculus & Graphical Visualization of Functions 
 A project where we used Python and MySql to showcase a tiny yet significant part of the beautiful and interesting field of Mathematics - Calculus.
 
-## Coming Soon
+## Coming Soon (Release Date : 3rd Feb ,2024)
 - Search User History by Operation Type, Date, Time, etc.
 - View User History.
 - More Optimized Code.
 - Modified Documentation.
-
-**Note:- All these are planned to be released on early Feb 2024 or so. (Changes may apply).**
 
 ## Repository Information
 - Line Count: 1217.
@@ -15,7 +13,7 @@ A project where we used Python and MySql to showcase a tiny yet significant part
 - Created Using : Microsoft [Visual Studio Code](https://code.visualstudio.com/) Editor.
 - Date Created : 12th September 2023.
 - Publish Date (on [Github](https://github.com/)) : 14th November 2023.
-- Last Updated : 21st January 2024.
+- Last Updated : 29th January 2024.
 - **Repository Status : Active.**
 - Authors : [Rajveer Vora](https://github.com/RajveerVora) and [Vaibhav Bakshi](https://github.com/Vaibhav1506).
 - Number of Contributor(s) : 2.

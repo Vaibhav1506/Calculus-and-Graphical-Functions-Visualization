@@ -5,7 +5,7 @@ A project where we used Python and MySql to showcase a tiny yet significant part
 - Search User History by Operation Type, Date, Time, etc.
 - View User History.
 - More Optimized Code.
-- Modified Documentation.
+- Updated Documentation.
 
 ## Repository Information
 - Line Count: 1217.

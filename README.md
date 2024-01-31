@@ -13,7 +13,7 @@ A project where we used Python and MySql to showcase a tiny yet significant part
 - Created Using : Microsoft [Visual Studio Code](https://code.visualstudio.com/) Editor.
 - Date Created : 12th September 2023.
 - Publish Date (on [Github](https://github.com/)) : 14th November 2023.
-- Last Updated : 29th January 2024.
+- Last Updated : 31st January 2024.
 - **Repository Status : Active.**
 - Authors : [Rajveer Vora](https://github.com/RajveerVora) and [Vaibhav Bakshi](https://github.com/Vaibhav1506).
 - Number of Contributor(s) : 2.
@@ -96,7 +96,7 @@ Now for viewing the User History you can simply go to MySQL Command Line Client 
 
 ![Screenshot 2023-11-24 201035](https://github.com/Vaibhav1506/Calculus-Functions-Visualization-Python-MySql-Connectivity-Project/assets/74455023/ef337702-1cfa-461b-a32f-247fee7de763)
 
-Therefore, you can see the results which the user has entered clearly in an organised and tabular format.
+Therefore, you can see the results which the user has entered clearly in an organised and tabular format. (**Note**: The question marks are due to the fact that the Console / Client cannot display special characters like integrals & superscripts due to its encoding limitations.) 
 
 ## Changelogs and Version History
 Contains various versions of the file from starting alongwith some details and descriptions about the code.The previous version files are availaible in the **Previous Versions** folder.

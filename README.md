@@ -1,20 +1,19 @@
 # Calculus & Graphical Visualization of Functions 
 A project where we used Python and MySql to showcase a tiny yet significant part of the beautiful and interesting field of Mathematics - Calculus.
 
-## Coming Soon (Release Date : 3rd Feb ,2024)
-- Search User History by Operation Type, Date, Time, etc.
-- View User History.
-- More Optimized Code.
-- Updated Documentation.
+## Important Notes
+- Since this repository is completed it won't be receiving updates or any new additions. So issues and all aren't reviewed here.
+- However, there is a new & complex version of this code coming to Github in the near future (Release Date is unknown).
+- If you do have any doubts about any legal issues or others, feel free to contact me for the same (Email addresses given below for contact purposes).
 
 ## Repository Information
-- Line Count: 1217.
+- Line Count: 1181.
 - Code Language : Python (Version 3.12) **(100%)**.
 - Created Using : Microsoft [Visual Studio Code](https://code.visualstudio.com/) Editor.
 - Date Created : 12th September 2023.
 - Publish Date (on [Github](https://github.com/)) : 14th November 2023.
-- Last Updated : 31st January 2024.
-- **Repository Status : Active.**
+- Last Updated : 2nd February 2024.
+- **Repository Status :  Completed [Inactive].**
 - Authors : [Rajveer Vora](https://github.com/RajveerVora) and [Vaibhav Bakshi](https://github.com/Vaibhav1506).
 - Number of Contributor(s) : 2.
 - License Used: [GNU Public License](https://www.gnu.org/licenses/gpl-3.0.en.html) (Open Source Project).
@@ -94,7 +93,7 @@ Now for viewing the User History you can simply go to MySQL Command Line Client 
 
 ![Screenshot 2023-11-23 201830](https://github.com/Vaibhav1506/Calculus-Functions-Visualization-Python-MySql-Connectivity-Project/assets/74455023/ee8f04e5-b12d-4e17-9f64-33c9c710231e)
 
-![Screenshot 2023-11-24 201035](https://github.com/Vaibhav1506/Calculus-Functions-Visualization-Python-MySql-Connectivity-Project/assets/74455023/ef337702-1cfa-461b-a32f-247fee7de763)
+![Output_X](https://github.com/Vaibhav1506/Calculus-and-Graphical-Functions-Visualization/assets/74455023/f3b0cc40-2dc3-4aa7-929a-e5a7aefea72b)
 
 Therefore, you can see the results which the user has entered clearly in an organised and tabular format. (**Note**: The question marks are due to the fact that the Console / Client cannot display special characters like integrals & superscripts due to its encoding limitations.) 
 
@@ -210,4 +209,3 @@ Initially we had no plans to add graphical visualization of functions. But we th
 
 ### Version 1.0 (12th September 2023) [Oldest Version]
 1. A basic and rough structure of the code was defined.
-

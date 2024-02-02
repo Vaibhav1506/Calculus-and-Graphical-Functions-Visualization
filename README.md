@@ -1,11 +1,8 @@
 # Calculus & Graphical Visualization of Functions 
 A project where we used Python and MySql to showcase a tiny yet significant part of the beautiful and interesting field of Mathematics - Calculus.
 
-## Important Notes
-- Since this repository is completed it won't be receiving updates or any new additions. So issues and all aren't reviewed here.
-- However, there is a new & complex version of this code coming to Github in the near future (Release Date is unknown).
-- If you do have any doubts about any legal issues or others, feel free to contact me for the same (Email addresses given below for contact purposes).
-
+## Coming Soon
+- Website for easier use. (Might be cancelled later so its not yet confirmed).
 ## Repository Information
 - Line Count: 1181.
 - Code Language : Python (Version 3.12) **(100%)**.
@@ -13,7 +10,7 @@ A project where we used Python and MySql to showcase a tiny yet significant part
 - Date Created : 12th September 2023.
 - Publish Date (on [Github](https://github.com/)) : 14th November 2023.
 - Last Updated : 2nd February 2024.
-- **Repository Status :  Completed [Inactive].**
+- **Repository Status :  Active.**
 - Authors : [Rajveer Vora](https://github.com/RajveerVora) and [Vaibhav Bakshi](https://github.com/Vaibhav1506).
 - Number of Contributor(s) : 2.
 - License Used: [GNU Public License](https://www.gnu.org/licenses/gpl-3.0.en.html) (Open Source Project).

@@ -11,7 +11,7 @@ All versions are supported as long as your code editor/IDE/Compiler supports run
 | 3.8.x    | :white_check_mark: |
 | < 3.8.x  | :x:                |
 
-### Note: Python Libraries which are required for running this project are themselves installed at latest versions when run in Terminal or Command Prompt.
+### Note: Python Libraries which are required for running this project are themselves installed / should be installed at latest versions when run in Terminal or Command Prompt.
 
 ## Reporting a Vulnerability
 - Do not make any changes in this repository without any permission.

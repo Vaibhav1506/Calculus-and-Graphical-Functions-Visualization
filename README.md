@@ -12,7 +12,7 @@ A project where we used Python and MySql to showcase a tiny yet significant part
 - Created Using : Microsoft [Visual Studio Code](https://code.visualstudio.com/) Editor.
 - Date Created : 12th September 2023.
 - Publish Date (on [Github](https://github.com/)) : 14th November 2023.
-- Last Updated : 2nd February 2024.
+- Last Updated : 3rd February 2024.
 - **Repository Status :  Completed [Inactive].**
 - Authors : [Rajveer Vora](https://github.com/RajveerVora) and [Vaibhav Bakshi](https://github.com/Vaibhav1506).
 - Number of Contributor(s) : 2.

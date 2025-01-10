@@ -12,8 +12,8 @@ A project where we used Python and MySql to showcase a tiny yet significant part
 - Created Using : Microsoft [Visual Studio Code](https://code.visualstudio.com/) Editor.
 - Date Created : 12th September 2023.
 - Publish Date (on [Github](https://github.com/)) : 14th November 2023.
-- Last Updated : 3rd February 2024.
-- **Repository Status :  Completed [Inactive].**
+- Last Updated : 10th January 2025.
+- **Repository Status :  Active.**
 - Authors : [Rajveer Vora](https://github.com/RajveerVora) and [Vaibhav Bakshi](https://github.com/Vaibhav1506).
 - Number of Contributor(s) : 2.
 - License Used: [GNU Public License](https://www.gnu.org/licenses/gpl-3.0.en.html) (Open Source Project).
@@ -23,14 +23,18 @@ Code Documentation has now been added on 5th December 2023. It contains the desc
 
 You can also view the Flowchart which depicts the Flow of Control for our code thus making it easier to understand the execution process. You can view it [here](https://github.com/Vaibhav1506/Calculus-and-Graphical-Functions-Visualization/blob/main/Main%20Directory/Help%2C%20Guide%20and%20more%20Info/Flow%20of%20Control.pdf).
 
+## Things to be added
+- Cross Platform compatibility is being checked.
+- Ways to open Flowchart, Documentation and Synopsis directly from code.
+
 ## Hardware Requirements
 - x86 64-bit CPU ([Intel](https://www.intel.com/content/www/us/en/homepage.html) / [AMD](https://www.amd.com/en.html) architecture).
 - A minimum of 2 GB RAM (4GB recommended).
 
 ## Software Requirements
 - [Windows](https://en.wikipedia.org/wiki/Microsoft_Windows) 7 or higher.
-- [Mac OS X](https://en.wikipedia.org/wiki/MacOS) 10.11 or higher, 64-bit.
-- [Linux](https://en.wikipedia.org/wiki/Linux): RHEL 6/7, 64-bit.
+- [Mac OS X](https://en.wikipedia.org/wiki/MacOS) 10.11 or higher, 64-bit. **(Not tested)**
+- [Linux](https://en.wikipedia.org/wiki/Linux): RHEL 6/7, 64-bit. **(Note tested)**
 - Almost all python libraries also work in [Ubuntu](https://en.wikipedia.org/wiki/Ubuntu).
 - [Python](https://www.python.org/) or [PyPy](https://en.wikipedia.org/wiki/PyPy) [Latest Version].
 - [MySql](https://www.mysql.com/) [Latest Version].
@@ -43,13 +47,13 @@ If you find any discrepencies or want to suggest some improvements feel free to 
 
 ## Executing the Code
 - Make sure the above Software Requirements are satisfied including libraries.
-- For installing libraries, first open Command Prompt(CMD) in Windows or Terminal in Mac OS or other operating systems.
+- For installing libraries, first open Command Prompt(CMD) in Windows or Terminal in Mac OS for other operating systems.
   - For installing numpy, run: **pip3 install numpy**
   - For installing matplotlib, run: **pip3 install matplotlib**
   - For installing mysql-connector-python, run: **pip3 install mysql-connector-python** 
 - Download the zip file and unzip it.
 - Open the Folder in any code editor.
-- Navigate to the file: **Final_CS_Project_Code (Version 3.7).py**
+- Navigate to the file: **Main_Code (Version 3.8).py**
 - Press F5 or run the code manually.
 
 ## Limitations

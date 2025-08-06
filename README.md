@@ -7,13 +7,13 @@ A project where we used Python and MySql to showcase a tiny yet significant part
 - If you do have any doubts about any legal issues or others, feel free to contact me for the same (Email addresses given below for contact purposes).
 
 ## Repository Information
-- Line Count: 1181.
-- Code Language : Python (Version 3.12) **(100%)**.
+- Line Count: 1225.
+- Code Language : Python (Version 3.13) **(100%)**.
 - Created Using : Microsoft [Visual Studio Code](https://code.visualstudio.com/) Editor.
 - Date Created : 12th September 2023.
 - Publish Date (on [Github](https://github.com/)) : 14th November 2023.
-- Last Updated : 10th January 2025.
-- **Repository Status :  Active.**
+- Last Updated : 6th August 2025.
+- **Repository Status :  Inactive (Closed).**
 - Authors : [Rajveer Vora](https://github.com/RajveerVora) and [Vaibhav Bakshi](https://github.com/Vaibhav1506).
 - Number of Contributor(s) : 2.
 - License Used: [GNU Public License](https://www.gnu.org/licenses/gpl-3.0.en.html) (Open Source Project).
@@ -104,7 +104,11 @@ Therefore, you can see the results which the user has entered clearly in an orga
 ## Changelogs and Version History
 Contains various versions of the file from starting alongwith some details and descriptions about the code.The previous version files are availaible in the **Previous Versions** folder.
 
-### Version 3.7 (17th December 2023) [Latest Version]
+### Version 3.8 (6th August 2025) [Latest Version]
+1. Fixed redundancy in code.
+2. Added extra functionalities for MySQL database.
+
+### Version 3.7 (17th December 2023)
 1. Added link to this Github Repository for reference.
 
 ### Version 3.6 (24th November 2023)

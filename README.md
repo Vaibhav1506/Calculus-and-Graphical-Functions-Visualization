@@ -104,9 +104,12 @@ Therefore, you can see the results which the user has entered clearly in an orga
 ## Changelogs and Version History
 Contains various versions of the file from starting alongwith some details and descriptions about the code.The previous version files are availaible in the **Previous Versions** folder.
 
-### Version 3.8 (6th August 2025) [Latest Version]
-1. Fixed redundancy in code.
-2. Added extra functionalities for MySQL database.
+### Version 3.9 (6th August 2025)
+1. Added extra functionalities for MySQL database.
+2. Fixed redundancy in code.
+
+### Version 3.8 (11th January 2024) [Latest Version]
+1. Added Search Operation and Display User History and Datetime.
 
 ### Version 3.7 (17th December 2023)
 1. Added link to this Github Repository for reference.

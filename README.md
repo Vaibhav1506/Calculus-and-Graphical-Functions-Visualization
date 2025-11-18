@@ -2,8 +2,7 @@
 A project where we used Python and MySql to showcase a tiny yet significant part of the beautiful and interesting field of Mathematics - Calculus.
 
 ## Important Notes
-- Since this repository is completed it won't be receiving updates or any new additions. So issues and all aren't reviewed here.
-- However, there is a new & complex version of this code coming to Github in the near future (Release Date is unknown).
+- Since this repository is completed it won't be receiving updates or any new additions. So issues and all aren't reviewed here. You can contact the emails on there.
 - If you do have any doubts about any legal issues or others, feel free to contact me for the same (Email addresses given below for contact purposes).
 
 ## Repository Information
